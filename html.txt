@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is yo yo honey singh
+=======
+this is a new feature
+>>>>>>> 87c337df5a8a1d0bb99c57ebf146da19f239c77f
